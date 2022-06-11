@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "Greeklish to Greek",
+    "version": "1.0",
+
+    "description": "Change Greeklish to Greek",
+
+    "icons": {
+        "128": "icons/icon128.png",
+        "48": "icons/icon48.png",
+        "16": "icons/icon16.png"
+    },
+
+    "browser_action": {
+        "default_title": "Change Greeklish to Greek",
+        "default_icon": "icons/icon48.png",
+        "default_popup": "popup/content.html"
+    }
+}
